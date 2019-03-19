@@ -1,0 +1,5 @@
+C:\github\Clock\NTPServerApi\NTPServerApi\bin\Release\NTPClientApi.dll
+C:\github\Clock\NTPServerApi\NTPServerApi\bin\Release\NTPClientApi.pdb
+C:\github\Clock\NTPServerApi\NTPServerApi\obj\Release\NTPClientApi.csproj.CoreCompileInputs.cache
+C:\github\Clock\NTPServerApi\NTPServerApi\obj\Release\NTPClientApi.dll
+C:\github\Clock\NTPServerApi\NTPServerApi\obj\Release\NTPClientApi.pdb

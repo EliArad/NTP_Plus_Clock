@@ -1,0 +1,13 @@
+C:\github\Clock\Clock\Clock\bin\Release\Clock.exe.config
+C:\github\Clock\Clock\Clock\bin\Release\Clock.exe
+C:\github\Clock\Clock\Clock\bin\Release\Clock.pdb
+C:\github\Clock\Clock\Clock\bin\Release\NTPClientApi.dll
+C:\github\Clock\Clock\Clock\bin\Release\NTPClientApi.pdb
+C:\github\Clock\Clock\Clock\obj\Release\Clock.csprojAssemblyReference.cache
+C:\github\Clock\Clock\Clock\obj\Release\Clock.Form1.resources
+C:\github\Clock\Clock\Clock\obj\Release\Clock.Properties.Resources.resources
+C:\github\Clock\Clock\Clock\obj\Release\Clock.csproj.GenerateResource.cache
+C:\github\Clock\Clock\Clock\obj\Release\Clock.csproj.CoreCompileInputs.cache
+C:\github\Clock\Clock\Clock\obj\Release\Clock.csproj.CopyComplete
+C:\github\Clock\Clock\Clock\obj\Release\Clock.exe
+C:\github\Clock\Clock\Clock\obj\Release\Clock.pdb
